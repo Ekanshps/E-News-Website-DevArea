@@ -6,7 +6,7 @@ This project is a responsive news website developed using HTML, CSS, and JavaScr
 
 Creator
 
-# Name: Ekansh Pratap Singh
+# Creator: Ekansh Pratap Singh
 # YouTube / Instagram : DevArea
 Features
 Category-Based News: Users can select news categories like IPL, Coding, Finance, and Politics.
